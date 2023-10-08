@@ -4,3 +4,5 @@ Function button() =>{
 <div> hello i am button </div>
 
 }
+
+export{button}
